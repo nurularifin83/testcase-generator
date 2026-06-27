@@ -139,7 +139,7 @@ VITE_ANTHROPIC_API_KEY=your_claude_api_key_here
 ## 🗺️ Roadmap
 
 - [x] Project setup (React + TypeScript + Tailwind CSS v4 + Vite)
-- [ ] Build input form (User Story + Mockup upload)
+- [x] Build input form (User Story + Mockup upload)
 - [ ] Integrate Claude AI API
 - [ ] Display generated test cases in table
 - [ ] Column customization (like Zephyr)
