@@ -166,7 +166,7 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 ## 📄 License
 
-MIT License — feel free to use this project for personal or commercial use.
+GPL v3 License — free to use personally and self-host, but cannot be sold commercially without permission from the author.
 
 ---
 
